@@ -1,5 +1,5 @@
 # CineMuse — Movie Discovery & Personal Watchlist
-Open the local URL printed by Vite, commonly http://localhost:5173.  
+ 
 CineMuse is a responsive movie discovery web application built with React.js and JavaScript. It provides a simple, modern interface for exploring movies and organizing a personal movie collection.
 Users can manage watchlists, save favorite movies, write personal reviews, explore movies by mood, and keep track of their viewing preferences.
 
